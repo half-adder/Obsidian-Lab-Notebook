@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "b4074d3c0bb0f59b",
+    "type": "split",
+    "children": [
+      {
+        "id": "544440e00c8580ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b0fcf83ce60f479",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d94818aa8d3bbaf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0310f70df5b63de8",
+        "type": "tabs",
+        "dimension": 34.78691774033697,
+        "children": [
+          {
+            "id": "7363ba19190b9ce4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b6b108b8e4c1c085",
+        "type": "tabs",
+        "dimension": 65.21308225966304,
+        "children": [
+          {
+            "id": "233a54ca3705eefa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1351d704d16a10a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "3CFB050E",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0034a5ec6f3233d1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.0110321044922
+  },
+  "right": {
+    "id": "265fed8add80822c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e08a1fc550085ff5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae41eee5d06c3079",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "307db92c95ceafac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18743415c8f8f1dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "07bbdedcb707a8f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c144273666579c10",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6b0fcf83ce60f479",
+  "lastOpenFiles": [
+    "slipbox/Scm.md",
+    "Dashboard.md",
+    "slipbox/lit_notes/@bornemann1998.md",
+    "lab_notebook/PROJ - pcg_initiation/2022-09 Cloning C-Sfmbt-mCherry-LEXY-pMT-Puro.md",
+    "attachments/@bornemann1998_table1.png",
+    "attachments/@peterson2004_fig1a_scm-flag.png",
+    "attachments/Pasted image 20221025161349.png",
+    "slipbox/@borneman1998.md",
+    "slipbox/Initiation of Polycomb-Mediated Repression.md",
+    "slipbox/Structure of Polycomb Domains during Early Embryogenesis.md"
+  ]
+}

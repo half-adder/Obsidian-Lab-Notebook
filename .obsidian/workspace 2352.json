@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "b4074d3c0bb0f59b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a71fbf74110b397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30e9ada95f457348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab_notebook/All Experiments.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94f63e5f8a617d4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab_notebook/PROJ - pcg_initiation/2023-02-07 Cloning LEXY to iLEXYs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12265a51a69cddcb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "lab_notebook/PROJ - pcg_initiation/PcG Initiation MBT Domain Project Flow.canvas",
+                "viewState": {
+                  "x": 175.17225368952336,
+                  "y": -180.92685997218595,
+                  "zoom": -1.1767014114625838
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d94818aa8d3bbaf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0310f70df5b63de8",
+        "type": "tabs",
+        "dimension": 19.569471624266143,
+        "children": [
+          {
+            "id": "7363ba19190b9ce4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b6b108b8e4c1c085",
+        "type": "tabs",
+        "dimension": 80.43052837573386,
+        "children": [
+          {
+            "id": "233a54ca3705eefa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1351d704d16a10a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "iLEXYs",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0034a5ec6f3233d1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "265fed8add80822c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e08a1fc550085ff5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae41eee5d06c3079",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lab_notebook/PROJ - pcg_initiation/PcG Initiation MBT Domain Project Flow.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "307db92c95ceafac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "lab_notebook/PROJ - pcg_initiation/PcG Initiation MBT Domain Project Flow.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18743415c8f8f1dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "07bbdedcb707a8f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lab_notebook/PROJ - pcg_initiation/PcG Initiation MBT Domain Project Flow.canvas"
+              }
+            }
+          },
+          {
+            "id": "c144273666579c10",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b33146311a931c9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "aca0830f1c23f8f9",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-projects:Open projects": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian42-brat:BRAT": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "12265a51a69cddcb",
+  "lastOpenFiles": [
+    "lab_notebook/PROJ - pcg_initiation/2023-02-07 Cloning LEXY to iLEXYs.md",
+    "lab_notebook/inventory/plasmids/C-Pc-mC-LEXY-Puro_c1.md",
+    "lab_notebook/inventory/plasmids/C-Sfmbt-mC-LEXY-Puro_c8.md",
+    "lab_notebook/All Experiments.md",
+    "lab_notebook/PROJ - pcg_initiation/PcG Initiation MBT Domain Project Flow.canvas",
+    "lab_notebook/inventory/primers/Primers Database.md",
+    "lab_notebook/inventory/primers/c-sfmbt-mC-LEXY_gibson_mC-LEXY_rev.md",
+    "lab_notebook/inventory/primers/QC_LEXY_to_iLEXYs_R.md",
+    "lab_notebook/inventory/primers/QC_LEXY_to_iLEXYs_F.md",
+    "slipbox/2023 Chromatin Symposium Abstract.md"
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "b4074d3c0bb0f59b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7a3be94582f7f4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33cceb5d527e214b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab_notebook/Misc Lab Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d94818aa8d3bbaf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0310f70df5b63de8",
+        "type": "tabs",
+        "dimension": 19.569471624266143,
+        "children": [
+          {
+            "id": "7363ba19190b9ce4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b6b108b8e4c1c085",
+        "type": "tabs",
+        "dimension": 80.43052837573386,
+        "children": [
+          {
+            "id": "233a54ca3705eefa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1351d704d16a10a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#experiment",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0034a5ec6f3233d1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "right": {
+    "id": "265fed8add80822c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e08a1fc550085ff5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae41eee5d06c3079",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lab_notebook/Misc Lab Tasks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "307db92c95ceafac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "lab_notebook/Misc Lab Tasks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18743415c8f8f1dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "07bbdedcb707a8f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lab_notebook/Misc Lab Tasks.md"
+              }
+            }
+          },
+          {
+            "id": "c144273666579c10",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2b192b42600b9f6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "afb5cf0a830d4881",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-projects:Open projects": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian42-brat:BRAT": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "33cceb5d527e214b",
+  "lastOpenFiles": [
+    "committee-documents",
+    "New folder",
+    "Dashboard.md",
+    "lab_notebook/PROJ - pcg_initiation/Genomics Kanban.md",
+    "lab_notebook/PROJ - pcg_initiation/2023-02-06 Sfmbt CRISPR Pocket Mutant.md",
+    "meeting-notes/2022-10-13 Data Share.md",
+    "lab_notebook/pcg_initiation/2022-09-27 H3K27me3 CUT&RUN and CUT&Tag in Wild-Type 3LW Discs.md",
+    "attachments/Pasted image 20220922112401.png",
+    "idt_orders/2022-10-12_24007503_Integrated DNA Technologies - Order Confirmation.pdf",
+    "lab_notebook/Untitled.md",
+    "lab_notebook/dataviews/cloning_dataview.md",
+    "lab_notebook/dataviews/Meeting Tasks.md",
+    "lab_notebook/pcg_initiation/PcG Chromatin Inputs.md",
+    "meeting-notes/2022-09-19 Judy Kassis.md"
+  ]
+}

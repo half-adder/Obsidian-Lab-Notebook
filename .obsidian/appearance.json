@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "baseFontSize": 16,
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "dashboard",
+    "supercharged-links-gen",
+    "S - Checkboxes"
+  ],
+  "nativeMenus": false
+}

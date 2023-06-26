@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "b4074d3c0bb0f59b",
+    "type": "split",
+    "children": [
+      {
+        "id": "df1b700925015218",
+        "type": "tabs",
+        "dimension": 99.99999999999999,
+        "children": [
+          {
+            "id": "12c10553f0a35bb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slipbox/lit_notes/@bornemann1998.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d94818aa8d3bbaf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0310f70df5b63de8",
+        "type": "tabs",
+        "dimension": 34.78691774033697,
+        "children": [
+          {
+            "id": "7363ba19190b9ce4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b6b108b8e4c1c085",
+        "type": "tabs",
+        "dimension": 65.21308225966304,
+        "children": [
+          {
+            "id": "233a54ca3705eefa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1351d704d16a10a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "3CFB050E",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0034a5ec6f3233d1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.0110321044922,
+    "collapsed": true
+  },
+  "right": {
+    "id": "265fed8add80822c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e08a1fc550085ff5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae41eee5d06c3079",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "slipbox/lit_notes/@bornemann1998.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "307db92c95ceafac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "slipbox/lit_notes/@bornemann1998.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18743415c8f8f1dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "07bbdedcb707a8f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "slipbox/lit_notes/@bornemann1998.md"
+              }
+            }
+          },
+          {
+            "id": "c144273666579c10",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1aba3c205e9c940a",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "12c10553f0a35bb0",
+  "lastOpenFiles": [
+    "slipbox/Scm.md",
+    "slipbox/Sfmbt.md",
+    "slipbox/abd-A.md",
+    "slipbox/lit_notes/@bornemann1998.md",
+    "slipbox/Obtaining Unfertilized Eggs.md",
+    "slipbox/Methods.md",
+    "slipbox/Thesis MOC.md",
+    "slipbox/Removing Maternally Contributed Factors from the Embryo.md",
+    "slipbox/Germline Clones.md",
+    "slipbox/Stages of Embryogenesis.md"
+  ]
+}

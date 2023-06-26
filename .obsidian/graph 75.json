@@ -1,0 +1,30 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:lab_notebook",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 0.7890625,
+  "lineSizeMultiplier": 0.533854166666667,
+  "collapse-forces": true,
+  "centerStrength": 0.671875,
+  "repelStrength": 14.7916666666667,
+  "linkStrength": 1,
+  "linkDistance": 218,
+  "scale": 0.2588386562181637,
+  "close": false
+}

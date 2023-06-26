@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "b4074d3c0bb0f59b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb81ca2d24eb74b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c85fd0124867297d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slipbox/lit_notes/@clemensgrimm2009.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1de433d5d08668ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slipbox/Scm.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d94818aa8d3bbaf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0310f70df5b63de8",
+        "type": "tabs",
+        "dimension": 21.71552660152009,
+        "children": [
+          {
+            "id": "7363ba19190b9ce4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b6b108b8e4c1c085",
+        "type": "tabs",
+        "dimension": 78.28447339847992,
+        "children": [
+          {
+            "id": "233a54ca3705eefa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1351d704d16a10a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "3CFB050E",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0034a5ec6f3233d1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "265fed8add80822c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e08a1fc550085ff5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae41eee5d06c3079",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "slipbox/lit_notes/@clemensgrimm2009.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "307db92c95ceafac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "slipbox/lit_notes/@clemensgrimm2009.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18743415c8f8f1dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "07bbdedcb707a8f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "slipbox/lit_notes/@clemensgrimm2009.md"
+              }
+            }
+          },
+          {
+            "id": "c144273666579c10",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1aba3c205e9c940a",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "c85fd0124867297d",
+  "lastOpenFiles": [
+    "lab_notebook/inventory/primers/Primers Database.md",
+    "slipbox/lit_notes/@clemensgrimm2009.md",
+    "slipbox/Sfmbt.md",
+    "slipbox/Scm.md",
+    "lab_notebook/inventory/primers/c-sfmbt-mC-LEXY_gibson_sfmbt_rev.md",
+    "templates/primer-template.md",
+    "lab_notebook/inventory/primers/c-sfmbt-mC-LEXY_gibson_sfmbt_fwd.md",
+    "lab_notebook/inventory/primers/pMT-puro_colony-PCR_R.md",
+    "lab_notebook/PROJ - pcg_initiation/2022-09 Cloning C-Sfmbt-mCherry-LEXY-pMT-Puro.md",
+    "lab_notebook/inventory/primers/pMT-puro_colony-PCR_F.md"
+  ]
+}

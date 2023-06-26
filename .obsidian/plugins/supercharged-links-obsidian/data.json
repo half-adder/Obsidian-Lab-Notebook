@@ -1,0 +1,124 @@
+{
+  "targetAttributes": [
+    "status",
+    ""
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "attribute",
+      "name": "status",
+      "value": "done",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "ec73-fa6f",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": false,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "status",
+      "value": "in-progress",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "05fc-c61f",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": false,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "status",
+      "value": "todo",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "19fa-aaa4",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": false,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "status",
+      "value": "experiment/genomics",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "95dc-fc31",
+      "selectText": false,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "tag",
+      "name": "status",
+      "value": "experiment/molbio",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "fad0-4cbf",
+      "selectText": false,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "tag",
+      "name": "status",
+      "value": "experiment/cloning",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "aeb9-e988",
+      "selectText": false,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "tag",
+      "name": "status",
+      "value": "experiment/microscopy",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "899c-6618",
+      "selectText": false,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "attribute",
+      "name": "status",
+      "value": "failed",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "97ba-b06e",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": false,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "status",
+      "value": "experiment/computational",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "339e-9a3f",
+      "selectText": false,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": false
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "b4074d3c0bb0f59b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1e05b3e516b7cbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d4d9483c6348744",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "baa045db0387ac25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab_notebook/PROJ - pcg_initiation/2022-10-13 Cloning Pc-mC-LEXY-Puro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d94818aa8d3bbaf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0310f70df5b63de8",
+        "type": "tabs",
+        "dimension": 19.569471624266143,
+        "children": [
+          {
+            "id": "7363ba19190b9ce4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b6b108b8e4c1c085",
+        "type": "tabs",
+        "dimension": 80.43052837573386,
+        "children": [
+          {
+            "id": "233a54ca3705eefa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1351d704d16a10a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#experiment",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0034a5ec6f3233d1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 546.5
+  },
+  "right": {
+    "id": "265fed8add80822c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e08a1fc550085ff5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae41eee5d06c3079",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lab_notebook/PROJ - pcg_initiation/2022-10-13 Cloning Pc-mC-LEXY-Puro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "307db92c95ceafac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "lab_notebook/PROJ - pcg_initiation/2022-10-13 Cloning Pc-mC-LEXY-Puro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18743415c8f8f1dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "07bbdedcb707a8f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lab_notebook/PROJ - pcg_initiation/2022-10-13 Cloning Pc-mC-LEXY-Puro.md"
+              }
+            }
+          },
+          {
+            "id": "c144273666579c10",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "59fcef3bb4fc36f4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b73c24cbda1c850",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "baa045db0387ac25",
+  "lastOpenFiles": [
+    "Dashboard.md",
+    "lab_notebook/PROJ - pcg_initiation/2022-10-13 Cloning Pc-mC-LEXY-Puro.md",
+    "lab_notebook/PROJ - pcg_initiation/2022-09 Cloning C-Sfmbt-mCherry-LEXY-pMT-Puro.md",
+    "lab_notebook/PROJ - pcg_initiation/2022-10-05 Embryo Nuclear Extraction Optimization.md",
+    "lab_notebook/PROJ - pcg_initiation/Genomics Kanban.md",
+    "lab_notebook/misc_attachments/nebuilder_plans/2022-10-12_c-sfmbt-mC-LEXY_gibson-plan.pdf",
+    "lab_notebook/inventory/plasmids/Plasmid Database.md",
+    "lab_notebook/inventory/plasmids/C-Sfmbt-mC-LEXY-Puro_c8.md",
+    "lab_notebook/inventory/plasmids/C-Sfmbt-mC-LEXY-Puro_c4.md",
+    "lab_notebook/misc_attachments/sequencing_results/Johnsen_D4Z_results/Johnsen_D4Z_1_c-sfmbt-mC-LEXY-Puro_c4.png"
+  ]
+}

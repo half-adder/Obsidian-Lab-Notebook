@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "b4074d3c0bb0f59b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce8b2e85dc59dcc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75c893d48de93cc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab_notebook/PROJ - pcg_initiation/2022-09 Cloning C-Sfmbt-mCherry-LEXY-pMT-Puro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d713601c3e69691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab_notebook/inventory/primers/c-sfmbt-mC-LEXY_gibson_sfmbt_fwd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b778851364e6d20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab_notebook/inventory/primers/All Primers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a2c90a9b79ce0981",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "482318fd7baf0673",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "lab_notebook/misc_attachments/nebuilder_plans/2022-10-12_c-sfmbt-mC-LEXY_gibson-plan.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d94818aa8d3bbaf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0310f70df5b63de8",
+        "type": "tabs",
+        "dimension": 21.71552660152009,
+        "children": [
+          {
+            "id": "7363ba19190b9ce4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b6b108b8e4c1c085",
+        "type": "tabs",
+        "dimension": 78.28447339847992,
+        "children": [
+          {
+            "id": "233a54ca3705eefa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1351d704d16a10a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "3CFB050E",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0034a5ec6f3233d1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 386.51103591918945
+  },
+  "right": {
+    "id": "265fed8add80822c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e08a1fc550085ff5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae41eee5d06c3079",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lab_notebook/inventory/primers/All Primers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "307db92c95ceafac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "lab_notebook/inventory/primers/All Primers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18743415c8f8f1dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "07bbdedcb707a8f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lab_notebook/inventory/primers/All Primers.md"
+              }
+            }
+          },
+          {
+            "id": "c144273666579c10",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1aba3c205e9c940a",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6b778851364e6d20",
+  "lastOpenFiles": [
+    "lab_notebook/inventory/primers/c-sfmbt-mC-LEXY_gibson_sfmbt_fwd.md",
+    "lab_notebook/idt_orders/2022-10-12_24007503_Integrated DNA Technologies - Order Confirmation.pdf",
+    "lab_notebook/PROJ - pcg_initiation/2022-09 Cloning C-Sfmbt-mCherry-LEXY-pMT-Puro.md",
+    "lab_notebook/PROJ - pcg_initiation/2022-10-13 Embryo IF against PTMs during early development.md",
+    "lab_notebook/misc_attachments/nebuilder_plans/2022-10-12_c-sfmbt-mC-LEXY_gibson-plan.pdf",
+    "slipbox/Scm.md",
+    "slipbox/Polycomb and Cancer.md",
+    "slipbox/lit_notes/@grimm2007.md",
+    "meeting-notes/2022-10-27 1-on-1 Dan.md",
+    "slipbox/lit_notes/@bornemann1998.md"
+  ]
+}

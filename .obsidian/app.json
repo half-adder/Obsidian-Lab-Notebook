@@ -1,0 +1,20 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "attachments",
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  },
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "slipbox",
+  "vimMode": false,
+  "showLineNumber": true,
+  "showInlineTitle": true
+}

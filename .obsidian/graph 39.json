@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "path:slipbox",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:slipbox/Thesis MOC",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.00830430203354,
+  "collapse-forces": true,
+  "centerStrength": 0.688325366604553,
+  "repelStrength": 11.6924572632261,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.8854674932955593,
+  "close": true
+}

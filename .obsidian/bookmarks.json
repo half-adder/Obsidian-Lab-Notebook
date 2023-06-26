@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1680270329602,
+      "path": "Dashboard.md",
+      "title": "Dashboard"
+    },
+    {
+      "type": "file",
+      "ctime": 1680532306252,
+      "path": "slipbox/Reading List.md"
+    },
+    {
+      "type": "folder",
+      "ctime": 1682097254884,
+      "path": "lab_notebook/my protocols"
+    },
+    {
+      "type": "folder",
+      "ctime": 1682436943221,
+      "path": "lab_notebook/inventory"
+    },
+    {
+      "type": "file",
+      "ctime": 1685023921830,
+      "path": "Planning KanBan/Thesis - Broad.md"
+    }
+  ]
+}

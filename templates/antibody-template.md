@@ -1,0 +1,10 @@
+---
+epitope: 
+species: 
+source: 
+catalog_number: 
+lot: 
+concentration: 
+working_concentrations: 
+notes: 
+---

@@ -1,0 +1,353 @@
+{
+  "choices": [
+    {
+      "id": "eccd9ea5-048b-44c8-8977-81b09dfbbfc3",
+      "name": "New Experiment - Basic",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/experiment-template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE}} {{NAME}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "setFileExistsBehavior": true,
+      "fileExistsMode": "Increment the file name"
+    },
+    {
+      "id": "fdcdd929-654c-415f-9df5-e3ed285f60f4",
+      "name": "Capture - New Daily Entry on Current Experiment",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "## {{DATE:YYYY-MM-DD dddd}}\n\n"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "f0071cd8-ebc1-4d05-bed2-4e6fd68d79f6",
+      "name": "TEMPLATE - Joint Meeting",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/Joint Meeting Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE}} Dowen-McKay Joint Meeting"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "setFileExistsBehavior": true,
+      "fileExistsMode": "Increment the file name"
+    },
+    {
+      "id": "5ccc75b7-14c9-45f1-bb05-1ecbda36d3e8",
+      "name": "CAPTURE - Colony PCR",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "Following [NEB's protocol](https://www.neb.com/protocols/0001/01/01/taq-dna-polymerase-with-standard-taq-buffer-m0273).\n\n| Component                        | 25 μl reaction | x{{VALUE:Reactions}} (uL) |\n| -------------------------------- | -------------- | ------- |\n| 10X Standard Taq Reaction Buffer | 2.5 μl         |   |\n| 10 mM dNTPs                      | 0.5 µl         |     |\n| 10 µM Forward Primer             | 0.5 µl         |    |\n| 10 µM Reverse Primer             | 0.5 µl         |    |\n| Template DNA                     | variable       |   |\n| Taq DNA Polymerase               | 0.125 µl       |     |\n| Nuclease-free water              | 20.875       |    |\n<!-- TBLFM: $3=($2 * ({{VALUE:Reactions}} * 1.2));%.2f -->\n\nCycling conditions:\n\n| Step                 | Temp | Time          |\n| -------------------- | ---- | ------------- |\n| Initial Denaturation | 95°C | 30 seconds    |\n| 30 cycles            | 95°C | 15-30 seconds |\n|                      | Tm   | 15-60 seconds |\n|                      | 68°C | 1 min/kb      |\n| Final Extension      | 68°C | 5 minutes     |\n| Hold                 | 12C  |               |"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "51a06d53-1841-4f4b-bc0f-4b9faadb9343",
+      "name": "CAPTURE - Q5 PCR",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "Following [NEB's Q5 PCR Protocol](https://www.neb.com/protocols/2013/12/13/pcr-using-q5-high-fidelity-dna-polymerase-m0491). Primers: \n\n\n| Component            | 25 uL reaction | {{value}}.5    |\n| -------------------- | -------------- | ---- |\n| H2O                  | 14             | 14   |\n| 5X Q5 Reactin Buffer | 5              |    |\n| 10 mM dNTPs          | 0.5            |   |\n| 10 uM Forward Primer | 1.25           |  |\n| 10 uM Reverse Primer | 1.25           |  |\n| Template DNA         | 2.5            |   |\n| Taq DNA Pol          | 0.5            |   |\n| **Total**            | 25             |    |\n<!-- TBLFM: @2$2=(25-sum(@3..@8)) -->\n<!-- TBLFM: $3=($2*@1$3) -->\n<!-- TBLFM: @>$2=sum(@I..@-1) -->\n\n| Step                 | Temp | Time            |\n| -------------------- | ---- | --------------- |\n| Initial Denaturation | 98C  | 3 minutes       |\n| 35 cycles            | 98C  | 10 seconds      |\n|                      | Ta   | 15 seconds      |\n|                      | 72 C | 20 seconds / kb | \n| Final Extension      | 72C  | 2 minutes       |\n| Hold                 | 12C  |                 |\n"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "afcde14f-0909-4f1a-8893-b0e98226531a",
+      "name": "MACRO - Paste Quote",
+      "type": "Macro",
+      "command": true,
+      "macroId": "50a9f6b9-1de0-41c4-b77d-a5d30e7ef7d3"
+    },
+    {
+      "id": "8806a45d-2770-4ef7-932b-54cab6452e69",
+      "name": "MACRO - Taq PCR",
+      "type": "Macro",
+      "command": true,
+      "macroId": "83596b67-6f3c-457b-a819-a34f654a9d60"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Macro - Taq PCR",
+      "id": "83596b67-6f3c-457b-a819-a34f654a9d60",
+      "commands": [
+        {
+          "name": "Reagent Template",
+          "type": "NestedChoice",
+          "id": "a4a8cb2e-22c2-44fb-b333-5cca2117523f",
+          "choice": {
+            "id": "ed96a1bf-d0f1-43cf-85eb-92edd5fc8264",
+            "name": "Reagent Template",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "\n| Component                     | 25 uL reaction | {{VALUE}}.5     |\n| ----------------------------- | -------------- | ------- |\n| H2O                           | 20.25          |  |\n| 10x ThermoPol Reaction Buffer | 2.5            |   |\n| 10 mM dNTPs                   | 0.5            |     |\n| 10 uM Forward Primer          | 0.5            |     |\n| 10 uM Reverse Primer          | 0.5            |     |\n| Template DNA                  | 0.5            |     |\n| Taq DNA Pol                   | 0.25           |    |\n| **Total**                     | 25             |    |\n<!-- TBLFM: @2$2=(25-sum(@3..@8)) -->\n<!-- TBLFM: $3=($2*@1$3) -->\n<!-- TBLFM: @>$2=sum(@I..@-1) -->\n\n| Step                 | Temp | Time                         |\n| -------------------- | ---- | ---------------------------- |\n| Initial Denaturation | 98C  | 3 minutes                    |\n| 35 cycles            | 98C  | 15 seconds                   |\n|                      | Ta   | 15 seconds                   |\n|                      | 72 C | 30 seconds (1m / kb) |\n| Final Extension      | 72C  | 2 minutes                    |\n| Hold                 | 12C  |                              |\n"
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "c65ce49c-4487-415b-993d-36368c4f59cc",
+          "time": 1000
+        },
+        {
+          "name": "Advanced Tables: Evaluate table formulas",
+          "type": "Obsidian",
+          "id": "1a5c1ff1-7324-4212-8fb8-8fc9ba60b0df",
+          "commandId": "table-editor-obsidian:evaluate-formulas"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Colony PCR",
+      "id": "caaad717-532a-4add-a043-8201d38301ca",
+      "commands": [
+        {
+          "name": "Untitled Capture Choice",
+          "type": "NestedChoice",
+          "id": "fb9183b2-f62d-4d83-a613-c41f0e87ca79",
+          "choice": {
+            "id": "19c137b1-a47d-41b1-b594-85ae89e2490a",
+            "name": "Untitled Capture Choice",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": false,
+              "format": ""
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Paste Quote",
+      "id": "50a9f6b9-1de0-41c4-b77d-a5d30e7ef7d3",
+      "commands": [
+        {
+          "name": "Begin Quote",
+          "type": "NestedChoice",
+          "id": "ba2975ba-7e9c-4490-8b69-87049500ea1c",
+          "choice": {
+            "id": "bc3d3c0f-263a-4306-b3ca-2aadebf03251",
+            "name": "Begin Quote",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "> [!QUOTE] \n> "
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "Advanced Paste: Smart Join",
+          "type": "Obsidian",
+          "id": "1e9cabee-5d32-40b7-b3d9-bbd03633aa8f",
+          "commandId": "obsidian-advanced-paste:advpaste-smartJoin"
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "templates",
+  "announceUpdates": true,
+  "version": "1.0.2",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d23415156174b71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slipbox/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab_notebook/PROJ  - A/2023-06-25 IF against XYZ.md",
+                "file": "slipbox/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab_notebook/PROJ  - A/2023-06-25 IF against XYZ.md",
+                "file": "slipbox/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab_notebook/PROJ  - A/2023-06-25 IF against XYZ.md"
+                "file": "slipbox/README.md"
               }
             }
           },
@@ -196,12 +209,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94e7cda2518f567b",
+  "active": "8d23415156174b71",
   "lastOpenFiles": [
+    "lab_notebook/PROJ  - A/2023-06-25 IF against XYZ.md",
+    "slipbox/README.md",
     "slipbox/lit_notes/@kuroda2020.md",
     "lab_notebook/my protocols/Single Fly Squish DNA Prep.md",
     "lab_notebook/PROJ - B/2023-04-15 Sample Experiment Log.md",
-    "lab_notebook/PROJ  - A/2023-06-25 IF against XYZ.md",
     "lab_notebook/PROJ  - A/Untitled.md",
     "lab_notebook/my protocols/~syncthing~LB Plates.md.tmp",
     "lab_notebook/PROJ - B/~syncthing~2023-04-15 Sample Experiment Log.md.tmp",
@@ -237,7 +251,6 @@
     "lab_notebook/PROJ - B/genomics-filenames.md",
     "lab_notebook/PROJ - B/attachments/2023-06-13_GEL_LHA-for-Sfmbt-iLEXYs-CRISPR-gibson.png",
     "lab_notebook/PROJ - B/attachments/2022-11-29_gibson-sfmbt-lexy-tfm-plates.jpg",
-    "lab_notebook/PROJ  - A/Cloning dCas9-splitFP.md",
     "lab_notebook/PROJ - B/attachments/gels/c-sfmbt-mc-lexy-colony-PCR 2022.09.23_11.53.43_Fl-UV/c-sfmbt-mc-lexy-colony-PCR 2022.09.23_11.53.43_Fl-UV.jpg",
     "lab_notebook/PROJ - B/attachments/Pasted image 20220929141055.png",
     "lab_notebook/PROJ - B/attachments/Pasted image 20221012232914.png",
